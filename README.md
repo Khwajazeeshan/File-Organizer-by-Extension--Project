@@ -19,8 +19,8 @@ Have you ever felt overwhelmed by a cluttered directory filled with various file
 To get started with the File Organizer, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/Khwajazeeshan/File-Organizer-by-Extension--Sigma-Web-Development-Mini-Project.git
+git clone https://github.com/Khwajazeeshan/File-Organizer-by-Extension--Project
 
-cd File-Organizer-by-Extension--Sigma-Web-Development-Mini-Project
+cd File-Organizer-by-Extension--Project
 
 npm install
